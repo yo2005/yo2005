@@ -3,14 +3,13 @@
 # Hi, I'm Gauri 👋
 
 
-
 </div>
 
 
 
 ## 👩‍💻 About Me
 
-- 🎓 2nd-year B.Tech IT student
+- 🎓 2nd-year B.Tech IT student 
 - ☕ Focused on **Java backend development** — Spring Boot, WebSocket, Docker
 - 🧩 Currently sharpening SQL and DSA for interviews
 - 📫 Open to backend/full-stack internship opportunities
@@ -90,9 +89,6 @@ Campus utility platform to report and match lost/found items.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yo2005&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo2005&layout=compact&theme=dark&hide_border=true" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=yo2005&theme=dark&hide_border=true" />
 
